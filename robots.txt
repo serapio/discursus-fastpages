@@ -1,1 +1,1 @@
-Sitemap: https://serapio.github.io/discursus-fastpages/sitemap.xml
+Sitemap: https://discurs.us/blog/sitemap.xml
