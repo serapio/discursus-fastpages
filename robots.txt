@@ -1,1 +1,1 @@
-Sitemap: https://discurs.us/blog/sitemap.xml
+Sitemap: https://blog.discurs.us/sitemap.xml
