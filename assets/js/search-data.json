@@ -6,8 +6,8 @@
 
   
       "page1": {
-          "title": "About Me",
-          "content": "This is where you put the contents of your About page. Like all your pages, it’s in Markdown format. . This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
+          "title": "About",
+          "content": "An Epic Preamble . In the remote forgotten past, when world-wide-web standards were young, and the cyber-tubes were still cooling, idealists proclaimed that: . “Information wants to be free” . and connection would bring us together. Personal websites would give every person a voice, friend-of-a-friend files would establish trust, syndication feeds would distribute the blessings, and the world would live as one. . That age expired before its dawning. Voices were captured in walled gardens, while the words of the profits are written out for copypasta stenciled in every margin, and chasing each of us across the pages. . Disinformation wants to be free and ad-supported . But some who remember the old order, continued to practice the way of truth. . Me . Lucien Carroll is a computational linguist. . . This website is powered by fastpages, a blogging platform that is based on Github pages and natively supports Jupyter notebooks in addition to other formats. .",
           "url": "https://blog.discurs.us/about/",
           "relUrl": "/about/",
           "date": ""
