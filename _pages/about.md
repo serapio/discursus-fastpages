@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 An Epic Preamble
-=====
+-----
 
 In the remote forgotten past,  
 when world-wide-web standards were young,  
@@ -32,7 +32,7 @@ But some who remember the old order,
 continued to practice the way of truth.
 
 Me
-=====
+-----
 [Lucien Carroll](https://discurs.us/lucien.html) is a computational linguist.
 
 ___
