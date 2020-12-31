@@ -33,8 +33,10 @@ continued to practice the way of truth.
 
 Me
 -----
-[Lucien Carroll](https://discurs.us/lucien.html) is a computational linguist.
+I am just a [dog on the internet](https://en.wikipedia.org/wiki/On_the_Internet,_nobody_knows_you%27re_a_dog), and a [subjunctive scaling expert](https://www.econstor.eu/bitstream/10419/196780/1/dp12282.pdf).
+That is a lie, but you know what they say about sleeping dogs, and I am genuinely an expert napper.
+I am sometimes known as [Lucien Carroll](https://discurs.us/lucien.html). I am a computational linguist.
 
-___
-
+Platform
+-----
 This website is powered by **[fastpages](https://github.com/fastai/fastpages)**, a blogging platform that is based on Github pages and natively supports Jupyter notebooks in addition to other formats.
